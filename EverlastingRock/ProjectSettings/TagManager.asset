@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - Angel
+  - Key
+  - WinZone
   layers:
   - Default
   - TransparentFX
