@@ -58,6 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-/EverlastingRock/temp
 /EverlastingRock/Library
+/EverlastingRock/temp
 /EverlastingRock/TextMesh*Pro
+[Aa]ssets/TextMesh*Pro/
