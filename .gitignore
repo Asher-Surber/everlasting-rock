@@ -60,5 +60,5 @@ crashlytics-build.properties
 
 /EverlastingRock/Library
 /EverlastingRock/temp
-/EverlastingRock/TextMesh*Pro
-[Aa]ssets/TextMesh*Pro/
+/EverlastingRock/Assets/TextMesh*Pro/
+/EverlastingRock/Assets/Resources
